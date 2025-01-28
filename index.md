@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to My Portfolio
 
-![Zach Roberts](_site\assets\images\thumbsUP.png)
+![Zach Roberts](assets\images\thumbsUP.png)
 
 
 
