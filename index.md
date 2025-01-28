@@ -7,12 +7,6 @@ layout: default
 
 Showcasing my journey as an engineer and designer.
 
-## Navigation
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
-
 
 ## About Me
 When I started my undergraduate studies, school wasn’t my main priority. Between running a landscaping business from age 12 and working full-time weekends as a kitchen manager throughout my first years at Rowan, my focus was on making ends meet and gaining practical experience. Juggling 85-hour work weeks while also managing coursework over the summer, taught me resilience and the importance of time management. These experiences shaped my strong work ethic and ability to balance competing priorities, but they also kept me from fully dedicating myself to academics.
@@ -27,30 +21,12 @@ The combination of my work experiences, research projects, and entrepreneurial j
 
 If I could summarize my journey in a thought, it would be this: every experience has led me to this point, and I wouldn’t change a thing.
 
-## Projects
-
-### Hip and Knee Exoskeleton
-A wearable device for detecting and correcting gait perturbations, developed as part of my research in Dr. Trkov's soft robotics lab.
-
-### 3D-Printed Bistable Linear Actuator
-A novel soft actuator designed for lightweight and adaptive applications.
-
-### Ordinary Engineering Business Projects
-Collaborative designs and prototypes developed for various clients in the fields of robotics, engineering, and product design.
-
-## Skills
-
-- 3D Design and Printing
-- Soft Robotics
-- CAD Software (e.g., SolidWorks, Fusion 360)
-- Python Programming
-- Prototyping and Testing
 
 ## Contact
 
 Feel free to reach out to discuss collaborations or projects!
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [Zach.Chris.Roberts@gmail.com](mailto:zach.chris.roberts@gmail.com)
 ---
 
-&copy; [Your Name] - [Year]. All rights reserved.
+&copy; [Zachary Roberts] - [2025]. All rights reserved.
