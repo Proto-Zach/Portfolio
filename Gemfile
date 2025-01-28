@@ -8,3 +8,4 @@ gem "minima", "~> 2.5.2"
 gem "jekyll-remote-theme"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
+gem "github-ppages", group :jekyll_plugins
