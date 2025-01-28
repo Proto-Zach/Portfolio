@@ -1,5 +1,5 @@
 title: "Zachary Roberts | Portfolio"
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@latest"
 minima:
   skin: dark
 plugins:
