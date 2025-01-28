@@ -6,6 +6,8 @@ layout: default
 # Welcome to My Portfolio
 
 ![Zach Roberts](assets\images\thumbsUP.png)
+<img src="assets\images\thumbsUP.png" alt="Zach Roberts" style="border: 5px solid black;" width="500">
+<img src="assets\images\thumbsUP.png" alt="Zach Roberts" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
 
 
 
