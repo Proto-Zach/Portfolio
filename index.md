@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to My Portfolio
 
-![Zach Roberts](C:\Users\ferku\Documents\Portfolio\images\thumbsUP.png)
+![Zach Roberts](_site\assets\images\thumbsUP.png)
 
 
 
