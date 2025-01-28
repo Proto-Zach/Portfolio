@@ -1,6 +1,6 @@
 title: "Zachary Roberts | Portfolio"
 theme: minima
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
