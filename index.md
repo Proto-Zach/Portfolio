@@ -1,15 +1,16 @@
 ---
-title: "Portfolio - Zach Roberts"
+title: "About Me"
 layout: default
 ---
 
 # Welcome to My Portfolio
 
-Showcasing my journey as an engineer and designer.
+![Zach Roberts](C:\Users\ferku\Documents\Portfolio\images\thumbsUP.png)
+
 
 
 ## About Me
-When I started my undergraduate studies, school wasn’t my main priority. Between running a landscaping business from age 12 and working full-time weekends as a kitchen manager throughout my first years at Rowan, my focus was on making ends meet and gaining practical experience. Juggling 85-hour work weeks while also managing coursework over the summer, taught me resilience and the importance of time management. These experiences shaped my strong work ethic and ability to balance competing priorities, but they also kept me from fully dedicating myself to academics.
+When I started my undergraduate studies, school wasn’t my main priority. Between running a landscaping business from age 12 to 19 and working full-time weekends as a kitchen manager throughout my first years at Rowan, my focus was on making ends meet and gaining practical experience. Juggling 85-hour work weeks while also managing coursework over the summer, taught me resilience and the importance of time management. These experiences shaped my strong work ethic and ability to balance competing priorities, but they also kept me from fully dedicating myself to academics.
 
 It wasn’t until I took Dr. Mitja Trkov’s Intro to Soft Robotics course that I realized where my true passion lay. The class opened my eyes to the exciting, cutting-edge developments happening in engineering and ignited my desire to pursue it as a full-time focus. The lessons I learned in that class helped me see the value of mental effort, and I knew that engineering was where I needed to invest my energy. That realization led to my current involvement in Dr. Trkov’s Soft Robotics and Human-Machine Interaction labs, where I’ve been fortunate to work on the development of a hip and knee exoskeleton for gait perturbation detection and rebalancing. This research experience has sharpened my ability to focus on both the details and the big picture, a skill that has been invaluable in collaborative projects.
 
@@ -27,6 +28,7 @@ If I could summarize my journey in a thought, it would be this: every experience
 Feel free to reach out to discuss collaborations or projects!
 
 - **Email**: [Zach.Chris.Roberts@gmail.com](mailto:zach.chris.roberts@gmail.com)
+- **Phone**: [1+(215)-688-2769]
 ---
 
 &copy; [Zachary Roberts] - [2025]. All rights reserved.
