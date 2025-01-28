@@ -29,7 +29,7 @@ If I could summarize my journey in a thought, it would be this: every experience
 Feel free to reach out to discuss collaborations or projects!
 
 - **Email**: [Zach.Chris.Roberts@gmail.com](mailto:zach.chris.roberts@gmail.com)
-- **Phone**: [1+(215)-688-2769]
+- **Phone**: 1+(215)-688-2769
 ---
 
 &copy; [Zachary Roberts] - [2025]. All rights reserved.
