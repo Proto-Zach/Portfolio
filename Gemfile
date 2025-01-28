@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Jekyll and Minima theme
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.2.1"
 gem "minima", "~> 2.5.2"
 
 # Optional: Add plugins or gems here if needed
