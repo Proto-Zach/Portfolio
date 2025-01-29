@@ -3,7 +3,7 @@ title: "About Me"
 layout: default
 ---
 
-# Mechanical Engineer | Researcher | Product Developer
+# Engineer | Researcher | Product Developer
 
 
 <img src="assets/images/thumbsUP.png" alt="Zach Roberts" style="border: 5px solid black; border-radius: 15px; object-fit: cover;" />
