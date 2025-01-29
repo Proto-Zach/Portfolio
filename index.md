@@ -3,7 +3,7 @@ title: "About Me"
 layout: default
 ---
 
-# Welcome to My Portfolio
+# Mechanical Engineer | Product Developer
 
 
 <img src="assets/images/thumbsUP.png" alt="Zach Roberts" style="border: 5px solid black; border-radius: 15px; object-fit: cover;" />
