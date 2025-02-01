@@ -1,10 +1,16 @@
-
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
   {%- include head.html -%}
 
   <body>
+
+    <header>
+      <nav>
+        <a href="/">Home</a>
+        <a href="https://ordinaryengineering.com/" target="_blank" rel="noopener noreferrer">External Site</a>
+      </nav>
+    </header>
 
     {%- include header.html -%}
 
