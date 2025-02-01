@@ -5,14 +5,16 @@
 
   <body>
 
-    <header>
-      <nav>
-        <a href="/">Home</a>
-        <a href="https://ordinaryengineering.com/" target="_blank" rel="noopener noreferrer">External Site</a>
+    <header class="site-header">
+      <nav class="site-nav">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="https://ordinaryengineering.com/" target="_blank" rel="noopener noreferrer">Ordinary Engineering</a></li>
+        </ul>
       </nav>
     </header>
-
-    {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
