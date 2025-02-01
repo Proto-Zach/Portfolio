@@ -9,6 +9,7 @@ layout: default
 
 ## Table of Contents
 - [Fall Prevention Exoskeleton](#Fall Prevention Exoskeleton)
+- [Soft Actuator](#Soft Actuator)
 - [Drone Hunting Camera](#Drone Hunting Camera)
 - [Ordinary Wallet](#Ordinary Wallet)
 - [3D Printer Toolchanger](#3D Printer Toolchanger)
@@ -19,20 +20,17 @@ layout: default
 
 ## Fall Prevention Exoskeleton
 
-## Drone Hunting Camera
+## Soft Actuator
 
+## Drone Hunting Camera
 
 ## Ordinary Wallet
 
-
 ## 3D Printer Toolchanger
-
 
 ## Scale
 
-
 ## Engineer's Toolkit
-
 
 ## Drone
 
