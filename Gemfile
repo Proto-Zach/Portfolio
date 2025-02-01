@@ -9,3 +9,4 @@ gem "jekyll-remote-theme"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-redirect-from"
