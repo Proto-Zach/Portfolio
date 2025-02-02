@@ -14,14 +14,17 @@ layout: default
 - [Ordinary Wallet](#ordinary-wallet)
 - [3D Printer Toolchanger](#3d-printer-toolchanger)
 - [Scale](#scale)
-- [Engineer's Toolkit](#engineer's-toolkit)
+- [Engineer's Toolkit](#engineers-toolkit)
 - [Drone](#drone)
 
 
+---
 ## Fall Prevention Exoskeleton
 
+---
 ## Soft Actuator
 
+---
 ## Drone Hunting Camera
 
 ### Problem Statement
@@ -52,6 +55,7 @@ Combines an RGB/Night Vision camera and an IR camera into a compact unit, optimi
 **_Image Placeholder:_**  
 ![Drone Targeting Camera](path/to/drone_camera_image.png){: style="border-radius: 15px; border: 3px solid black;" }
 
+---
 ## Ordinary Wallet
 ### Inspiration
 Inspired by the Ridge Wallet, this modular design allows customization, durability, and easy part replacement.
@@ -93,6 +97,7 @@ Integrated a toggle switch to reroute the PWM signal from the print head’s coo
 ---
 ## Scale
 
+---
 ## Engineer's Toolkit
 ### Problem Statement
 Carrying a full toolbox was impractical for a student frequently moving between classes, labs, and meetings. A compact, organized toolset was needed.
@@ -117,6 +122,7 @@ Repurposed clipboard storage case with foam padding to secure tools while mainta
 **_Image Placeholder:_**  
 ![Engineer’s Toolkit](path/to/toolkit_image.png){: style="border-radius: 15px; border: 3px solid black;" }
 
+---
 ## Drone
 
 
