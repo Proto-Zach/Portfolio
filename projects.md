@@ -54,7 +54,7 @@ I developed the **camera testbed** and **sensor integration system**, ensuring t
   <p>Close-up of integrated sensors and cameras.</p>
 </div>
 
-[🔝 Back to top](#projects)  
+[🔝 Back to top](#table-of-contents)  
 
 ---
 
@@ -90,7 +90,7 @@ I designed and manufactured the wallet using **FFF/SLA 3D printing** and **deskt
   <p>Testing NFC functionality with smartphone scanning.</p>
 </div>
 
-[🔝 Back to top](#projects)  
+[🔝 Back to top](#table-of-contents)  
 
 ---
 
@@ -124,7 +124,7 @@ Developed a **quick-swap toolhead system** that allows users to switch between a
   <p>Dovetail mounting system for easy tool swaps.</p>
 </div>
 
-[🔝 Back to top](#projects)  
+[🔝 Back to top](#table-of-contents)  
 
 ---
 
@@ -159,7 +159,7 @@ Designed a **portable storage system** and **selected the most versatile tools**
   <p>All essential tools neatly stored.</p>
 </div>
 
-[🔝 Back to top](#projects)  
+[🔝 Back to top](#table-of-contents)  
 
 ---
 ## Drone
