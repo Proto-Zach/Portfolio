@@ -5,6 +5,9 @@ layout: default
 
 # Intro
 
+Throughout my career as an engineer and maker, I have worked on a variety of projects that blend **mechanical design, electronics, and hands-on fabrication**. Each project presented unique challenges, requiring creative problem-solving and technical expertise to develop functional and well-optimized solutions. Below is a collection of selected projects, showcasing my approach to **design, prototyping, and iterative development**.  
+
+Click on a project title to jump directly to its section.  
 
 
 ## Table of Contents
