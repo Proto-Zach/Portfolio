@@ -8,17 +8,22 @@ layout: default
 
 
 ## Table of Contents
-- [Fall Prevention Exoskeleton](#Fall Prevention Exoskeleton)
-- [Soft Actuator](#Soft Actuator)
-- [Drone Hunting Camera](#Drone Hunting Camera)
-- [Ordinary Wallet](#Ordinary Wallet)
-- [3D Printer Toolchanger](#3D Printer Toolchanger)
-- [Scale](#Scale)
-- [Engineer's Toolkit](#Engineer's Toolkit)
-- [Drone](#Drone)
+- [Fall Prevention Exoskeleton](#fall-prevention-exoskeleton)
+- [Soft Actuator](#soft-actuator)
+- [Drone Hunting Camera](#drone-hunting-camera)
+- [Ordinary Wallet](#ordinary-wallet)
+- [3D Printer Toolchanger](#3d-printer-toolchanger)
+- [Scale](#scale)
+- [Engineer's Toolkit](#engineer's-toolkit)
+- [Drone](#drone)
 
 
 ## Fall Prevention Exoskeleton
+
+## Soft Actuator
+
+## Drone Hunting Camera
+
 ### Problem Statement
 Build an AI-driven camera system capable of determining the capabilities and target of a drone attack. This allows the user to rank a swarm by threat and handle them in order.
 
@@ -46,10 +51,6 @@ Combines an RGB/Night Vision camera and an IR camera into a compact unit, optimi
 
 **_Image Placeholder:_**  
 ![Drone Targeting Camera](path/to/drone_camera_image.png){: style="border-radius: 15px; border: 3px solid black;" }
-
-## Soft Actuator
-
-## Drone Hunting Camera
 
 ## Ordinary Wallet
 ### Inspiration
