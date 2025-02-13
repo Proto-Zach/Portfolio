@@ -13,7 +13,6 @@ Click on a project title to jump directly to its section.
 ## Table of Contents
 
 ✦ **[Drone Hunting Camera](#drone-hunting-camera)** – AI-driven camera system for drone threat assessment.  
-✦ **[Ordinary Wallet](#ordinary-wallet)** – A modular, customizable wallet with integrated NFC.  
 ✦ **[3D Printer Toolchanger](#3d-printer-toolchanger)** – A quick-swap toolhead system for an Ender 3 V2.  
 ✦ **[Engineer’s Toolkit](#engineers-toolkit)** – A compact, everyday carry toolkit for engineers.  
 ✦ **[Fall Prevention Exoskeleton](#fall-prevention-exoskeleton)** – A lower limb exoskeleton, designed to prevent slips,  trips, and falls.  
@@ -60,41 +59,6 @@ I developed the **camera testbed** and **sensor integration system**, ensuring t
 
 [🔝 Back to top](#table-of-contents)  
 
----
-
-## Ordinary Wallet  
-
-### Overview  
-Inspired by the **Ridge Wallet**, this modular design allows for **customization, durability, and easy part replacement**. Unlike traditional wallets, this one incorporates **NFC capabilities** and a flexible external ID holder.  
-
-### My Role  
-I designed and manufactured the wallet using **FFF/SLA 3D printing** and **desktop CNC machining**, ensuring that all components could be fabricated in-house.  
-
-### Design Constraints  
-- **Durable enough** for everyday use while maintaining a **lightweight profile**.  
-- All components/jigs must be **made in-house**.  
-- Must accommodate **integrated NFC functionality**.  
-
-### Design Features  
-
-**1️⃣ External ID Holder**  
-- Provides quick access to essential cards.  
-- Originally SLA-printed but later **reinforced with UV-resistant resin** for durability.  
-- Future versions will include **metal edges for added strength**.  
-
-**2️⃣ Integrated NFC Chip**  
-- Embedded chip allows the user to store and write custom data (e.g., **e-wallet, social media, business card**).  
-- Can be scanned via smartphone for instant sharing of information.  
-
-### Images  
-<div align="center">
-  <img src="path/to/wallet_image1.png" alt="Ordinary Wallet - Front View" style="border-radius: 15px; border: 3px solid black;" width="75%">
-  <p>Front view of the modular wallet.</p>
-  <img src="path/to/wallet_image2.png" alt="Wallet with NFC" style="border-radius: 15px; border: 3px solid black;" width="75%">
-  <p>Testing NFC functionality with smartphone scanning.</p>
-</div>
-
-[🔝 Back to top](#table-of-contents)  
 
 ---
 
