@@ -40,11 +40,11 @@ I developed the **camera testbed** and **sensor integration system**, ensuring t
 
 ### Design Features  
 
-**1️⃣ Acrylic + 3D Printed Frame**  
+**➊ Acrylic + 3D Printed Frame**  
 - The enclosure was laser-cut from acrylic for visibility, with **PETG 3D-printed brackets** for durability.  
 - **TPU feet** were added for shock absorption and surface adaptability.  
 
-**2️⃣ Multi-Sensor Camera System**  
+**2️➋ Multi-Sensor Camera System**  
 - Includes an **RGB/Night Vision camera** and **IR sensor** for night operation.  
 - **Zoom camera & range finder** provide accurate target acquisition.  
 - **Threaded brass inserts** allow for easy mounting and prototyping.  
