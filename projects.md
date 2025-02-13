@@ -16,10 +16,10 @@ Click on a project title to jump directly to its section.
 ✦ **[Ordinary Wallet](#ordinary-wallet)** – A modular, customizable wallet with integrated NFC.  
 ✦ **[3D Printer Toolchanger](#3d-printer-toolchanger)** – A quick-swap toolhead system for an Ender 3 V2.  
 ✦ **[Engineer’s Toolkit](#engineers-toolkit)** – A compact, everyday carry toolkit for engineers.  
-✦ **[Fall Prevention Exoskeleton](#fall-prevention-exoskeleton)** - A lower limb exoskeleton, designed to prevent slips,  trips, and falls.
-✦ **[Soft Actuator](#soft-actuator)** - A bistable actuator, developed to study the snap through mechanics of hollow shells of revolution.
-✦ **[Scale](#scale)** - A simple kitchen scale, inspired by Greek cooking.
-✦ **[Drone](#drone)** - A 3D printed drone, capable of basic flight manuevers.
+✦ **[Fall Prevention Exoskeleton](#fall-prevention-exoskeleton)** – A lower limb exoskeleton, designed to prevent slips,  trips, and falls.
+✦ **[Soft Actuator](#soft-actuator)** – A bistable actuator, developed to study the snap through mechanics of hollow shells of revolution.
+✦ **[Scale](#scale)** – A simple kitchen scale, inspired by Greek cooking.
+✦ **[Drone](#drone)** – A 3D printed drone, capable of basic flight manuevers.
 
 ---
 
